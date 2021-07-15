@@ -1,5 +1,5 @@
 # hello-world
 Repositorio Computacional
-Soy SANDRA LILIANA VALDERRAMA BELTRÁN
-Tengo 42 años, dos hijos, soy médica infectóloga, profesora de medicina y candidata a Doctorado en Epidemiología Clínica}
-Me apasiona la medicina, la investigación y la docencia en enfermedades infecciosas. Soy feliz en familia y en mi trabajo. Mis hobbies son hacer deporte, bailar, leer y escuchar música. 
+
+Hola soy Sandra Valderrama. Tengo 42 años y dos hijos. Soy médico infectólogo, docente y candidata al doctorado en Epidemiología Clínica. Me gusta estar en mi familia
+Disfruto mucho mi trabajo. Me apasiona la atención de pacientes con enfermedades infecciosas y la investigación en esta área.
